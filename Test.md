@@ -1,3 +1,3 @@
-| &larr |
+| :arrow_down: |
 | :---:  |
-| &larr |
+| :arrow_up: |
